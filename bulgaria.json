@@ -2,7 +2,8 @@
         {
             "name": "Bulgaria",
             "topLevelDomain": [
-               bg ],
+               bg 
+            ],
             "alpha2Code": "BG",
             "alpha3Code": "BGR",
             "callingCodes": [
