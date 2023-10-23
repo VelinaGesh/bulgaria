@@ -2,14 +2,14 @@
     {
         "name": "Bulgaria",
         "topLevelDomain": [
-            ".BG"
+            ".bg"
         ],
         "alpha2Code": "BG",
         "alpha3Code": "BGR",
         "callingCodes": [
             "359"
         ],
-        "capital": "Sofia",
+        "capital": "Burgas",
         "altSpellings": [
             "BG",
             "Republic of Bulgaria",
